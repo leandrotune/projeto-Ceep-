@@ -1,1 +1,3 @@
-# js_web_1920
+# Projeto do Curso da ALura 
+# manipulando o DOM 
+# projeto Ceep templetes para criar tarefas
